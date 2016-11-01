@@ -16,11 +16,11 @@ namespace Sharelendar
 				Content = new StackLayout {
 					VerticalOptions = LayoutOptions.Center,
 					Children = {
-						new Label {
+						/*new Label {
 							HorizontalTextAlignment = TextAlignment.Center,
 							Text = "Der Pädu isch der gröscht Swagger!"
-						}
-					}
+						}*/
+                    }
 				}
 			};
 		}
