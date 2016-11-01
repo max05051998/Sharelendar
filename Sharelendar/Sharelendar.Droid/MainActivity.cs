@@ -16,6 +16,7 @@ namespace Sharelendar.Droid
 		{
 			base.OnCreate (bundle);
 
+            SetContentView(Resource.Layout.Main);
 			global::Xamarin.Forms.Forms.Init (this, bundle);
 			LoadApplication (new Sharelendar.App ());
 		}
