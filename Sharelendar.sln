@@ -11,7 +11,9 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Sharelendar", "Sharelendar\
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Sharelendar\Sharelendar\Sharelendar.projitems*{710972ca-4715-4075-a0a8-c5023db7f452}*SharedItemsImports = 4
 		Sharelendar\Sharelendar\Sharelendar.projitems*{770c6dcd-9857-4c22-8ca1-1c13e2a6b6e4}*SharedItemsImports = 13
+		Sharelendar\Sharelendar\Sharelendar.projitems*{b40232bc-1313-4c70-bd5b-075787ae27c9}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
